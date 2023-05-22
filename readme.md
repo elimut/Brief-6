@@ -101,4 +101,107 @@ On veut qu’il y est la possibilité de :
     <img width="80%" src="img/composants_use_case5.png">
 </p>
 
+#### Relationship / relation ou interaction
 
+Chaque acteur doit interagir avec au moins un use case du système. 
+interaction: 
+association (basique communication ou interaction) 
+
+Avec qui va intéragir la banque?
+
+<p align="center" width="100%">
+    <img width="80%" src="img/composants_use_case6.png">
+</p>
+<p align="center" width="100%">
+    <img width="80%" src="img/composants_use_case7.png">
+</p>
+<p align="center" width="100%">
+    <img width="80%" src="img/composants_use_case8.png">
+</p>
+<p align="center" width="100%">
+    <img width="80%" src="img/composants_use_case9.png">
+</p>
+
+##### Exemple d’un cas simple pour application
+
+On veut qu’il y est la possibilité de :
+- se connecter → le mot de passe devra être vérifiée et afficher une erreur s’il n’est pas bon
+- vérifier l’argent qu’on à sur le compte
+- faire un transfert avec un autre compte → vérifier s’il y a assez d’argent sur le compte
+- faire des paiements → depuis le compte de débit ou depuis les économies 
+**On doit donc avoir un use case pour chacune de ces actions.**
+
+<p align="center" width="100%">
+    <img width="80%" src="img/composants_use_case10.png">
+</p>
+<p align="center" width="100%">
+    <img width="80%" src="img/composants_use_case11.png">
+</p>
+
+
+Quelle genre de relation entre:
+
+- se connecter
+- vérifier mot de passe  
+- afficher erreur
+- afficher solde 
+- transférer 
+- payer
+- vérifier fond
+- compte principale
+- compte épargne
+
+<p align="center" width="100%">
+    <img width="80%" src="img/composants_use_case12.png">
+</p>
+<p align="center" width="100%">
+    <img width="80%" src="img/composants_use_case13.png">
+</p>
+<p align="center" width="100%">
+    <img width="80%" src="img/composants_use_case14.png">
+</p>
+<p align="center" width="100%">
+    <img width="80%" src="img/composants_use_case15.png">
+</p>
+
+### Github (branches et gestion des conflits)
+
+<p align="center" width="100%">
+    <img width="80%" src="img/Github1.png">
+</p>
+<p align="center" width="100%">
+    <img width="80%" src="img/Github2.png">
+</p>
+
+#### Architecture DEV
+
+- main
+- Dev
+ - coder 1
+ - coder 2
+
+### User flow
+
+[comprendre le user flow](https://lagrandeourse.design/blog/quest-ce-que-le-user-flow/#:~:text=Un%20User%20Flow%20est%20une,%C3%A0%20utiliser%2C%20clair%20et%20intuitif.)
+
+
+<p align="center" width="100%">
+    <img width="80%" src="img/User_flow1.png">
+</p>
+<p align="center" width="100%">
+    <img width="80%" src="img/User_flow2.png">
+</p>
+
+### WireFrame
+
+Les wireframes représentent une interface sobre. Les designers intègrent généralement les éléments graphiques et contenus suivants :
+- En tête et pied de page
+- Barre de navigation
+- Boutons call-to-action
+- Fil d’Ariane
+- Éléments de formulaire
+- Zones pour les images ou médias
+
+[wireframe](https://www.usabilis.com/definition-wireframe/#:~:text=Le%20Wireframe%20est%20la%20maquette,un%20degr%C3%A9%20d%27interactivit%C3%A9%20variable.)
+
+### Mindmap
