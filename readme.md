@@ -205,3 +205,30 @@ Les wireframes représentent une interface sobre. Les designers intègrent gén�
 [wireframe](https://www.usabilis.com/definition-wireframe/#:~:text=Le%20Wireframe%20est%20la%20maquette,un%20degr%C3%A9%20d%27interactivit%C3%A9%20variable.)
 
 ### Mindmap
+
+
+### Entretien avec Hafida
+
+article type blog??
+se mettre à la place d'un client
+
+
+ce qui ne doit pas changer:
+texte?
+
+
+garde version code couleur dsi, et une version avec notre propre charte
+
+
+moderniser
+animation
+
+[ex](https://neuroinclusive.design/en/)
+[ex](https://www.print-dsi.com/)
+[ex](https://www.youtube.com/watch?v=89CKBJoZ8P4&ab_channel=GillesDevendeville)
+[ex](https://www.leadgenerator.fr/blog/le-call-to-action-cta-en-btob)
+
+récupèrer photos
+se lâcher 
+call to action
+pop up
