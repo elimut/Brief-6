@@ -87,3 +87,18 @@ Ils sont définis par un oval et représentent une action qui accomplit une tâc
 <p align="center" width="100%">
     <img width="80%" src="img/composants_use_case4.png">
 </p>
+
+##### Exemple d’un cas simple pour application bancaire
+
+On veut qu’il y est la possibilité de :
+- se connecter
+- vérifier l’argent qu’on à sur le compte
+- faire un transfert avec un autre compte
+- faire des paiements
+**On doit donc avoir un use case pour chacune de ces actions.**
+
+<p align="center" width="100%">
+    <img width="80%" src="img/composants_use_case5.png">
+</p>
+
+
