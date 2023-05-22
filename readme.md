@@ -19,9 +19,9 @@ En tant que concepteur développeur d'application, en prenant en compte les beso
 ->User flow
 ->Wireframe
 ->mind map
-->Trello ou Jira (attribution des tâches et décomposition des fonctionnalités en US)
+->Trello ou Jira (attribution des tâches et décomposition des fonctionnalités en US = User story)
 ->Compte rendu de vos échanges oraux ou écrits avec le client
-->Délimitation du MVP et anticipation des futurs évolutions du projet
+->Délimitation du MVP (minimum viable du produit) et anticipation des futurs évolutions du projet
 
 ### UML et MLD de la base de données
 
