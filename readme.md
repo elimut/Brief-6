@@ -232,3 +232,11 @@ récupèrer photos
 se lâcher 
 call to action
 pop up
+
+
+-----------------------------------------------------
+
+merise, diagramme de classe -> bdd
+heritage en mcd
+
+use case
