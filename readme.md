@@ -207,6 +207,75 @@ Les wireframes représentent une interface sobre. Les designers intègrent gén�
 ### Mindmap
 
 
+### Lean prototyping
+
+[lean prototyping OpenClassroom](https://openclassrooms.com/fr/courses/4781491-testez-vos-idees-avec-le-lean-prototyping/5480506-determinez-le-perimetre-fonctionnel-de-votre-prototype)
+
+#### Déterminer le périmètre fonctionnel du prototype
+
+Avant de construire votre MVP, il est important d'en définir son périmètre fonctionnel et de le structurer.
+Le périmètre fonctionnel de votre MVP représente  l'ensemble (restreint) des actions que vous allez rendre disponibles à vos utilisateurs.
+
+Le risque lorsque vous définissez le périmètre fonctionnel de votre prototype est double :
+- le périmètre est trop réduit, auquel cas vous n'arriverez pas à reproduire l'expérience utilisateur que vous souhaitez offrir à vos clients ;
+- le périmètre est trop large (souvent le cas le plus fréquent), ce qui impliquerait des investissements en termes de temps (notamment le vôtre), énergie et argent beaucoup trop importants.
+
+##### Comment définir le périmètre fonctionnel ?
+
+Il existe plusieurs options pour préparer dans les meilleures conditions la première étape du cycle d'apprentissage **lean** (construire). 
+Vous avez maintenant une idée assez précise de ce que vous souhaitez construire, il est alors temps de la structurer.
+
+###### Le backlog produit
+Dans les méthodes agiles et notamment SCRUM, le document censé rassembler toutes les fonctionnalités d'un produit s'appelle le backlog produit.
+=> liste priorisée des fonctionnalités d’un produit
+>L'idée du backlog produit est de centraliser toutes les informations relatives au développement des nouvelles fonctionnalités d'un produit.
+
+En somme, le backlog produit et une liste de fonctionnalités triées par ordre de priorité et documentées (si nécessaire).
+L'importance des informations présentes dans le backlog s'adapte à la phase de maturité du produit. Lorsque vous commencez à construire un MVP, vous aurez tendance à vous concentrer sur sa sortie rapide sur le marché plutôt que sur la maintenance d'un backlog produit parfait.
+Le backlog produit est en effet un outil évolutif qui grandira avec votre produit et votre équipe. C'est une des raisons pour lesquelles un outil comme Trello est un compagnon de choix pour créer son backlog.
+
+**Un outil pour organiser votre backlog, Trello**:
+Trello est un outil pratique pour centraliser, structurer et rassembler les informations concernant le fonctionnement d'un produit (peu importe son stade d'avancement). C'est un outil en ligne complètement gratuit, super accessible et très flexible.
+
+Backlog produit, mais qu'en est-il de la description des fonctionnalités?
+
+###### Anatomie d’une **user story**:
+>Une user story est« une courte phrase décrivant en détail l’action que l’on souhaite rendre disponible à nos utilisateurs ».
+Sur Trello, elle est représentée par une carte.
+
+**Une user story (aussi appelée US) se compose de 3 parties distinctes, un type d'utilisateur, une action à réaliser et une finalité.**
+Exemple:
+En tant que [type d'utilisateur], j'aimerais pouvoir [action à réaliser] dans le but de [finalité].
+
+-> **Le type d'utilisateur**:
+L'on peut très bien appeler toutes les personnes visitant le site des « utilisateurs ». Plus l'on détaille l'user story, mieux l'on se met en situation.
+
+>Une personne qui visite pour la première fois votre site pourrait alors s’appeler un « visiteur » plutôt qu’un « utilisateur ». Un utilisateur quant à lui pourrait rentrer dans la catégorie des personnes ayant créé un compte ou même déjà « utilisé » votre service (réserver une sieste par exemple).
+
+>Encore une fois, au stade de MVP, il n’est pas nécessaire de passer trop de temps sur les détails de votre backlog.
+
+Exemple:
+Partons donc sur un visiteur et rédigeons la première partie de notre user story :
+
+
+-> L'action à réaliser
+
+Description précise de l'action que l'utilisateur doit être capable de réaliser sur l'application. **Le contexte est clé!**
+Si l'on rédige la story concernant la création d’un compte alors il faut se mettre  à la place du visiteur du site (qui n’est pas encore un utilisateur 🤓) :
+"En tant que visiteur de..., j'aimerais pouvoir [créer un compte]"
+L'on peut dans cette carte commencer à documenter la fonctionnalité en indiquant les informations nécessaires à la création d'un compte (cheklist par exemple).
+L'on peut également ajouter des wireframes (si besoin) concernant la fonctionnalité nécessaire à son bon développement.
+
+-> Finalité 
+Bien qu'optionnelle, cette partie de la story permet de s'immerger encore plus dans l’exercice. 
+Elle consiste à décrire la finalité de l’action réalisée.
+Exemple:
+« En tant que visiteur de ..., j’aimerais pouvoir créer un compte afin d’être en mesure [d'utiliser le service proposé] »
+
+=> Cet exercice permet dans un premier temps de se mettre à la place de l'utilisateur, mais aussi de communiquer simplement l'objectif et le comportement attendu d’une fonctionnalité à des équipes de développement (et autres).
+
+
+
 ### Entretien avec Hafida
 
 article type blog??
@@ -239,4 +308,6 @@ pop up
 merise, diagramme de classe -> bdd
 heritage en mcd
 
-use case
+wireframe
+
+mentions légales
