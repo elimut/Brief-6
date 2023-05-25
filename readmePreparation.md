@@ -263,6 +263,7 @@ Il existe plusieurs options pour préparer dans les meilleures conditions la pre
 Vous avez maintenant une idée assez précise de ce que vous souhaitez construire, il est alors temps de la structurer.
 
 ###### Le backlog produit
+
 Dans les méthodes agiles et notamment SCRUM, le document censé rassembler toutes les fonctionnalités d'un produit s'appelle le backlog produit.
 => liste priorisée des fonctionnalités d’un produit
 >L'idée du backlog produit est de centraliser toutes les informations relatives au développement des nouvelles fonctionnalités d'un produit.
