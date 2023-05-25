@@ -182,7 +182,7 @@ Quelle genre de relation entre:
 
 ### User flow
 
-[comprendre le user flow](https://lagrandeourse.design/blog/quest-ce-que-le-user-flow/#:~:text=Un%20User%20Flow%20est%20une,%C3%A0%20utiliser%2C%20clair%20et%20intuitif.)
+[Comprendre le user flow](https://lagrandeourse.design/blog/quest-ce-que-le-user-flow/#:~:text=Un%20User%20Flow%20est%20une,%C3%A0%20utiliser%2C%20clair%20et%20intuitif.)
 
 
 <p align="center" width="100%">
@@ -191,6 +191,43 @@ Quelle genre de relation entre:
 <p align="center" width="100%">
     <img width="80%" src="img/User_flow2.png">
 </p>
+
+Veille, user flow blog article:
+
+<p align="center" width="100%">
+    <img width="80%" src="img/userflow_slide1.png">
+</p>
+<p align="center" width="100%">
+    <img width="80%" src="img/userflow_slide2.png">
+</p>
+<p align="center" width="100%">
+    <img width="80%" src="img/userflow_slide3.png">
+</p>
+<p align="center" width="100%">
+    <img width="80%" src="img/userflow_slide4.png">
+</p>
+
+Veille, user flow:
+
+<p align="center" width="100%">
+    <img width="80%" src="img/Userflow.png">
+</p>
+<p align="center" width="100%">
+    <img width="80%" src="img/Userflow%20(1).png">
+</p>
+<p align="center" width="100%">
+    <img width="80%" src="img/Userflow%20(2).png">
+</p>
+<p align="center" width="100%">
+    <img width="80%" src="img/Userflow%20(3).png">
+</p>
+<p align="center" width="100%">
+    <img width="80%" src="img/Userflow%20(4).png">
+</p>
+<p align="center" width="100%">
+    <img width="80%" src="img/Userflow%20(5).png">
+</p>
+
 
 ### WireFrame
 
@@ -292,10 +329,10 @@ garde version code couleur dsi, et une version avec notre propre charte
 moderniser
 animation
 
-[ex](https://neuroinclusive.design/en/)
-[ex](https://www.print-dsi.com/)
-[ex](https://www.youtube.com/watch?v=89CKBJoZ8P4&ab_channel=GillesDevendeville)
-[ex](https://www.leadgenerator.fr/blog/le-call-to-action-cta-en-btob)
+[exemple](https://neuroinclusive.design/en/)
+[exemple](https://www.print-dsi.com/)
+[exemple](https://www.youtube.com/watch?v=89CKBJoZ8P4&ab_channel=GillesDevendeville)
+[exemple](https://www.leadgenerator.fr/blog/le-call-to-action-cta-en-btob)
 
 récupèrer photos
 se lâcher 
