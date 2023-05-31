@@ -33,4 +33,28 @@ La mise en place du projet doit être terminée pour le 05 juin 2023.
 - Story Mapping
 - Product Backlog dans Trello ou Jira ou Taïga ou Asana (attribution des tâches, décomposition des fonctionnalités en US et estimation en story points)
 - Compte rendu de vos échanges oraux ou écrits avec le client
-- Délimitation du MVP et anticipation des futurs évolutions du projet
+- Délimitation du MVP et anticipation des futures évolutions du projet
+
+Ordre:
+
+Mind map
+Story maping/User story
+MVP
+User case
+User flow
+UML
+MCD, MLD
+Wireframe
+Github
+
+## Complément
+
+Le MVP sera présenté à la certification.
+Les mises à jour avec de nouvelles fonctionnalités seront à proposer si nous n'avons pas eu le temps de le faire, comme possibilités de mise à jour ultérieures.
+
+- Site vitrine,
+- Blog afin d'empêcher les spams, il faut que les utilisateurs s'identifient: connection,
+- Nos services, Nos experts, Blog, Contact,
+- Pour le MVP:
+prendre en compte les exigences minimales obligatoires par rapport au besoin de DSI et par rapport à la certification,
+- On doit également choisir dès maintenant si on part sur une PWA ou site avec application à part.
