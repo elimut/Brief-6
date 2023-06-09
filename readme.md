@@ -234,9 +234,13 @@ call to action
 pop up
 
 
------------------------------------------------------
+### Notes 
 
 merise, diagramme de classe -> bdd
 heritage en mcd
 
 use case
+extends:
+use case utilisation connecter include obligatoire
+mauvais mdp msg erreur extends pas obligatoire
+generalisation -> cas particulier, plusieurs cas possibles
